@@ -1,4 +1,4 @@
-**The Minecraft Grub Theme Trio:**
+ **The Minecraft Grub Theme Trio:**
 
 | *> Minecraft Main Menu <* | [Minecraft World Selection Menu](https://github.com/Lxtharia/minegrub-world-sel-theme) | [Using both themes together](https://github.com/Lxtharia/double-minegrub-menu) |
 | --- | --- | --- |
